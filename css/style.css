@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+
+    background-color: #edefeb;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+
+    border: 1px solid #caccc9;
+    background-color: #fff;
+}
+
+.header {
+    font-weight: normal;
+	padding-bottom: 4px;
+    border-bottom: 1px dotted  #832b5b;
+}
+
+.news {
+    margin-right: 12px;
+    margin-left: 12px;
+
+    border-bottom: 1px dotted  #832b5b;
+}
+
+
+
+.date {
+    font-size: 12px;
+
+    display: inline-block;
+
+    height: 13px;
+    padding: 3px 4px;
+
+    color: #fff;
+    background-color: #832b5b;
+}
+
+.title {
+    font-size: 14px;
+	padding-bottom: 4px;
+    display: inline-block;
+}
+
+.pages {
+    margin-right: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+}
+
+.pages h3 {
+    font-size: 14px;
+
+    margin-top: 8px;
+    margin-bottom: 3px;
+}
+
+.btn-pages {
+    line-height: 13px;
+
+    display: inline-block;
+
+    margin-bottom: 3px;
+    margin-left: 1px;
+
+    text-align: center;
+
+    border: 1px solid #caccc9;
+    background-color: #edefeb;
+}
+
+.btn-pages a {
+    font-size: 11px;
+
+    display: inline-block;
+
+    width: 30px;
+    height: 14px;
+
+    text-decoration: none;
+
+    color: #434542;
+}
+
+.btn-page-selected {
+    background-color: #832b5b;
+}
+
+.btn-page-selected a {
+    color: #fff;
+}
+
+.announce {
+    font-size: 14px;
+}
+
+.full-content {
+    margin-right: 16px;
+    margin-left: 12px;
+
+    border-bottom: 1px dotted  #832b5b;
+}
+
+.btn-return {
+    margin: 12px 0 25px 12px;
+}
